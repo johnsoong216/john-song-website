@@ -55,6 +55,9 @@ experiences:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+design:
+  columns: '2'
+---
 <!-- experience:
   - title: Investment Analyst
     company: Ontario Teachers' Pension Plan
@@ -89,6 +92,4 @@ experiences:
     description: Collecting labour data from the IMF, OECD, World Bank and national Central Banks to observe and account for productivity and wage discrepancies across nations using R
 
  -->
-design:
-  columns: '2'
----
+
