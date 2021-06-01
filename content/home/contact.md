@@ -18,6 +18,3 @@ design:
   background:
     ? image
 ---
-<https://www.linkedin.com/in/john-song-bbb043a4/>
-
-johnsoong216@hotmail.com
