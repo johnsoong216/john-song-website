@@ -30,13 +30,13 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-  - title: Investment Analyst
+<!--   - title: Investment Analyst
     company: Ontario Teachers' Pension Plan
     company_url: 'https://www.otpp.com/'
     company_logo: landmark
     location: Toronto
     date_start: '2019-09-01'
-    date_end: '2020-08-31'
+    date_end: '2020-08-31' -->
     description: |2-
         Responsibilities include:
         
