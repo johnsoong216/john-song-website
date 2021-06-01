@@ -25,7 +25,7 @@ experience:
   - title: Investment Analyst
     company: Ontario Teachers' Pension Plan
     company_url: 'https://www.otpp.com/'
-    company_logo: landmark
+    company_logo: piggy-bank
     location: Toronto
     date_start: 'Sept 2019'
     date_end: 'Sept 2020'
@@ -39,7 +39,7 @@ experience:
   - title: Business Analyst
     company: Capital One
     company_url: 'https://www.capitalone.ca/'
-    company_logo: landmark
+    company_logo: money-check
     location: Toronto
     date_start: 'May 2019'
     date_end: 'Aug 2019'
