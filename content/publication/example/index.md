@@ -28,17 +28,11 @@ abstract: >-
 draft: true
 featured: true
 tags:
-  - machine learning
-  - GAN
-  - LSTM
-  - computational music
+  - Deep Learning
 slides: ""
 url_pdf: https://github.com/johnsoong216/Music-Sequence-Generation/blob/main/Evaluation%20of%20Generative%20Architectures%20for%20Music%20Generation.pdf
 image:
-  caption: "Image credit:
-    [**Unsplash**](https://images.unsplash.com/photo-1507838153414-b4b713384a76\
-    ?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=form\
-    at&fit=crop&w=1050&q=80)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
@@ -55,8 +49,7 @@ author_notes:
   - Equal contribution
 doi: ""
 publication: ""
-projects:
-  - Music Sequence Generation
+projects: []
 date: 2021-04-20T00:00:00.000Z
 url_slides: ""
 publishDate: 2021-04-23T00:00:00.000Z
