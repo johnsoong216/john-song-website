@@ -1,48 +1,33 @@
 ---
 title: John Song
 role: 4th Year Student at University of Toronto
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
+  - Quantitative Finance
   - Computational Linguistics
-  - Information Retrieval
+  - Equity Research
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/johnsoong216
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/john-song-bbb043a4/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto
+    url: https://www.utoronto.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Computer Science, Mathematics & Economics
+      institution: University of Toronto
+      year: 2025
+email: johnsoong216@hotmail.com
 superuser: true
 highlight_name: false
 ---
-I am a fourth year student  is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a fourth year student at the University of Toronto studying Computer Science and Economics. I have interned at Capital One and Ontario Teachers' Pension Plan, where I explored the intersections between machine learning and finance. At university, I worked as a research assistant under [Mark Manger!][https://munkschool.utoronto.ca/profile/manger-mark/] performing data analysis on labour economics. I am currently working under [Michelle Alexopoulos!][https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2] researching the application of natural language processing in analyzing macroeconomic policies. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
