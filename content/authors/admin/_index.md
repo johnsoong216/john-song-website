@@ -6,6 +6,7 @@ interests:
   - Quantitative Finance
   - Computational Linguistics
   - Equity Research
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
