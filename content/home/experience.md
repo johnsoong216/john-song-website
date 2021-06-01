@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.otpp.com/'
     company_logo: landmark
     location: Toronto
-    date_start: '2019-09-01'
-    date_end: '2020-08-31'
+    date_start: 'Sept 2019'
+    date_end: 'Sept 2020'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://www.capitalone.ca/'
     company_logo: landmark
     location: Toronto
-    date_start: '2019-05-01'
-    date_end: '2019-08-31'
+    date_start: 'May 2019'
+    date_end: 'Aug 2019'
     description: |2-
         Responsibilities include:
       
@@ -54,8 +54,8 @@ experience:
     company_url: 'https://munkschool.utoronto.ca/'
     company_logo: university
     location: Toronto
-    date_start: '2018-09-01'
-    date_end: '2019-04-30'
+    date_start: 'Sept 2018'
+    date_end: 'Apr 2019'
     description: |2-
         Responsibilities include:
       
@@ -63,5 +63,5 @@ experience:
         * Analyzing labour time-series data to observe and account for productivity and wage discrepancies across nations using R
 
 design:
-  columns: '3'
+  columns: '2'
 ---
