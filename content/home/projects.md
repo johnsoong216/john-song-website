@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Finance
+    tag: Finance
+  - name: Statistics
+    tag: Statistics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
