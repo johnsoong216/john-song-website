@@ -9,9 +9,7 @@ summary: Python library that optimizes portfolio allocation using markowitz,
 url_video: ""
 title: Markowitz Model
 featured: true
-tags:
-  - Quantitative Finance
-  - Data Science
+tags: []
 external_link: https://pypi.org/project/pymarkowitz/
 url_slides: ""
 categories:
