@@ -49,18 +49,6 @@ experience:
         * Building and backtesting credit valuation models using Bayseian inferences and regression techniques
         * Expanding model validation infrastructure
 
-  - title: Research Assistant
-    company: Munk School of Global Affairs
-    company_url: 'https://munkschool.utoronto.ca/'
-    company_logo: Munk-Icon
-    location: Toronto
-    date_start: '2018-09-01'
-    date_end: '2019-04-01'
-    description: |2-
-        Responsibilities include:
-      
-        * Collecting macroeconomic data from the IMF, OECD, World Bank and national Central Banks
-        * Analyzing labour time-series data to observe and account for productivity and wage discrepancies across nations using R
 
 design:
   columns: '2'
