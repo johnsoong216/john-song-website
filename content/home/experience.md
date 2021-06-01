@@ -37,7 +37,7 @@ experience:
         * Modelling portfolio risk metrics through simulations and analysis
         * Automating portfolio visualizations and report generations
 
-  - title: Business Analyst
+  - title: Professor of Semiconductor Physics
     company: Capital One
     company_url: ''
     company_logo: C1-Icon
