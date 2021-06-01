@@ -25,13 +25,22 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 80%
-  icon: analytics
+  icon: chart-bar
   icon_pack: fas
   name: Finance
 - description: 70%
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
+- description: 60%
+  icon: futbol
+  icon_pack: fas
+  name: Futbol
+- description: 50%
+  icon: dice
+  icon_pack: fas
+  name: Poker
+
 
 
 # Uncomment to use emoji icons.
