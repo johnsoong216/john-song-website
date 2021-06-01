@@ -30,7 +30,7 @@ featured: true
 tags:
   - Deep Learning
 slides: ""
-url_pdf: ""
+url_pdf: https://github.com/johnsoong216/Music-Sequence-Generation/blob/main/Evaluation%20of%20Generative%20Architectures%20for%20Music%20Generation.pdf
 image:
   caption: ""
   focal_point: ""
@@ -40,7 +40,7 @@ summary: This report explores using hidden Markov models and Long-Short Term
   Memory Encoder-Decoder network to construct pleasant melodies that sound
   indistinguishable from human composition
 url_dataset: ""
-url_project: "https://github.com/johnsoong216/Music-Sequence-Generation"
+url_project: https://github.com/johnsoong216/Music-Sequence-Generation
 url_source: ""
 url_video: ""
 author_notes:
