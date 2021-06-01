@@ -27,7 +27,7 @@ item:
   date_end: ""
   date_start: "2020-10-01"
   description: ""
-  organization: edX
+  organization: QuantNet
   organization_url: https://www.quantnet.com
   title: Financial Modeling with C++
   url: ""
