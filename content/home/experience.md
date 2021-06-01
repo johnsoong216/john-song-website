@@ -37,7 +37,7 @@ experience:
         * Modelling portfolio risk metrics through simulations and analysis
         * Automating portfolio visualizations and report generations
 
- - title: Business Analyst
+  - title: Business Analyst
     company: Capital One
     company_url: 'https://www.capitalone.ca/'
     company_logo: C1-Icon
