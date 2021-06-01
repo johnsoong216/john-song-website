@@ -23,11 +23,11 @@ education:
   courses:
     - course: BSc in Computer Science, Mathematics & Economics
       institution: University of Toronto
-      year: 2025
+      year: 2022
 email: johnsoong216@hotmail.com
 superuser: true
 highlight_name: false
 ---
-I am a fourth year student at the University of Toronto studying Computer Science and Economics. I have interned at Capital One and Ontario Teachers' Pension Plan, where I explored the intersections between machine learning and finance. At university, I worked as a research assistant under [Mark Manger!][https://munkschool.utoronto.ca/profile/manger-mark/] performing data analysis on labour economics. I am currently working under [Michelle Alexopoulos!][https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2] researching the application of natural language processing in analyzing macroeconomic policies. 
+I am a fourth year student at the University of Toronto studying Computer Science and Economics. I have interned at Capital One and Ontario Teachers' Pension Plan, where I explored the intersections between machine learning and finance. At university, I worked as a research assistant under [Mark Manger](https://munkschool.utoronto.ca/profile/manger-mark/) performing data analysis on labour economics. I am currently working under [Michelle Alexopoulos](https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2]) researching the application of natural language processing in analyzing macroeconomic policies. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/website_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
