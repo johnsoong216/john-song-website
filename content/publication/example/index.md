@@ -10,24 +10,7 @@ authors:
   - Fengkai Ye
   - Huifeng Wu
 publication_short: ""
-abstract: >-
-  Music composition with complex models has received more attention in recent
-
-  years, fuelled by the rising interests in algorithmic art creations. This project aims to
-
-  generate polyphonic melodies with a linguistic approach, comparing performance
-
-  between variants of hidden Markov models (HMM) and an Encoder-Decoder
-
-  network that uses long-short term memory (LSTM) cells, which are commonly
-
-  used in language generation tasks. The main objective of this project is to construct
-
-  pleasant melodies that sound indistinguishable from human-composed ones. The
-
-  project evaluates the models’ performance by both quantitative and qualitative
-
-  measures and discusses possible areas for explorations.
+abstract:""
 draft: true
 featured: true
 tags:
