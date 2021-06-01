@@ -5,11 +5,8 @@ date: 2021-06-01T15:36:19.752Z
 draft: false
 featured: false
 tags:
-  - machine learning
-  - neural network
-  - image classification
-categories:
   - Deep Learning
+categories: []
 external_link: https://github.com/johnsoong216/GAN-Tutorial-MNIST-Labeling/blob/main/GAN%20Tutorial%20Final%20Version.pdf
 links: []
 image:
