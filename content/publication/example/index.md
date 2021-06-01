@@ -1,4 +1,7 @@
 ---
+abstract: ""
+slides: ""
+url_pdf: https://github.com/johnsoong216/Music-Sequence-Generation/blob/main/Evaluation%20of%20Generative%20Architectures%20for%20Music%20Generation.pdf
 title: Evaluation of Generative Architectures for Music Generation
 publication_types:
   - "4"
@@ -30,7 +33,7 @@ featured: true
 tags:
   - Deep Learning
 slides: ""
-url_pdf: https://github.com/johnsoong216/Music-Sequence-Generation/blob/main/Evaluation%20of%20Generative%20Architectures%20for%20Music%20Generation.pdf
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
