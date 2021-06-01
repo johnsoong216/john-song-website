@@ -30,22 +30,12 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-<!--   - title: Investment Analyst
-    company: Ontario Teachers' Pension Plan
-    company_url: 'https://www.otpp.com/'
-    company_logo: landmark
-    location: Toronto
-    date_start: '2019-09-01'
-    date_end: '2020-08-31' -->
     description: |2-
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
-        * Exploring hedging and rebalancing strategies for tactical asset allocations
-        * Modelling portfolio risk metrics through simulations and analysis
-        * Automating portfolio visualizations and report generations
         
   - title: Professor of Semiconductor Physics
     company: University X
