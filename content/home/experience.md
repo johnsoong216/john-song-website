@@ -37,15 +37,15 @@ experience:
         * Modelling portfolio risk metrics through simulations and analysis
         * Automating portfolio visualizations and report generations
 
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+ - title: Business Analyst
+    company: Capital One
+    company_url: 'https://www.capitalone.ca/'
+    company_logo: C1-Icon
+    location: Toronto
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
+    description: Building and backtesting credit valuation models using Bayseian inferences and regression techniques.
+    
 design:
   columns: '2'
 ---
@@ -64,14 +64,7 @@ design:
         * Modelling portfolio risk metrics through simulations and analysis
         * Automating portfolio visualizations and report generations
         
-  - title: Business Analyst
-    company: Capital One
-    company_url: 'https://www.capitalone.ca/'
-    company_logo: C1-Icon
-    location: Toronto
-    date_start: '2019-05-01'
-    date_end: '2019-08-31'
-    description: Building and backtesting credit valuation models using Bayseian inferences and regression techniques
+ 
     
   - title: Research Assistant
     company: Munk School of Global Affairs
