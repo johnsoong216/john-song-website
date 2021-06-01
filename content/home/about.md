@@ -5,13 +5,7 @@ author: admin
 widget_id: Adding New Materials
 headless: true
 weight: 20
-title: I am a fourth year student at the University of Toronto studying Computer
-  Science and Economics. I am passionate about data science and particularly its
-  applications in finance.   I have interned at Capital One and Ontario
-  Teachers' Pension Plan, where I explored the intersections between machine
-  learning and finance. At university, I worked as a research assistant under
-  \[Mark Manger!] performing data analysis on labour economics. I am currently
-  working under \[Michelle Alexopoulos!].
+title: ""
 design:
   background:
     color: "#0d2dec"
