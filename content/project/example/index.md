@@ -14,9 +14,12 @@ tags:
   - Data Science
 external_link: https://pypi.org/project/pymarkowitz/
 url_slides: ""
+categories:
+  - Quantitative Finance
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Modern Portfolio Theory
   focal_point: Smart
+  filename: cover_page.png
 url_code: ""
 ---
