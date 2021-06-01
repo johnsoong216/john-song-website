@@ -63,5 +63,5 @@ experience:
         * Analyzing labour time-series data to observe and account for productivity and wage discrepancies across nations using R
 
 design:
-  columns: '2'
+  columns: '3'
 ---
