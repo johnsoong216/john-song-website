@@ -21,7 +21,41 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
+
+experiences
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+  - title: Investment Analyst
+    company: Ontario Teachers' Pension Plan
+    company_url: 'https://www.otpp.com/'
+    company_logo: landmark
+    location: Toronto
+    date_start: '2019-09-01'
+    date_end: '2020-08-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        * Exploring hedging and rebalancing strategies for tactical asset allocations
+        * Modelling portfolio risk metrics through simulations and analysis
+        * Automating portfolio visualizations and report generations
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+<!-- experience:
   - title: Investment Analyst
     company: Ontario Teachers' Pension Plan
     company_url: 'https://www.otpp.com/'
@@ -54,7 +88,7 @@ experience:
     date_end: '2019-04-01'
     description: Collecting labour data from the IMF, OECD, World Bank and national Central Banks to observe and account for productivity and wage discrepancies across nations using R
 
-
+ -->
 design:
   columns: '2'
 ---
