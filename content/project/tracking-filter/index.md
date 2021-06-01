@@ -10,7 +10,7 @@ categories:
 external_link: https://github.com/johnsoong216/trackingfilters
 links: []
 image:
-  filename: localization-example-of-section-52-the-extended-kalman-filter-for-ellipsoidal-sets.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
