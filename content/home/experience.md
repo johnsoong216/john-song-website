@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.otpp.com/'
     company_logo: OTPP-Icon
     location: Toronto
-    date_start: 'Sep 2019'
-    date_end: 'Sep 2020'
+    date_start: '2019-09-01'
+    date_end: '2020-08-31'
     description: |2-
         Responsibilities include:
         
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://www.capitalone.ca/'
     company_logo: C1-Icon
     location: Toronto
-    date_start: 'May 2019'
-    date_end: 'Aug 2019'
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
     description: |2-
         Responsibilities include:
       
@@ -54,8 +54,8 @@ experience:
     company_url: 'https://munkschool.utoronto.ca/'
     company_logo: Munk-Icon
     location: Toronto
-    date_start: 'Sep 2018'
-    date_end: 'Apr 2019'
+    date_start: '2018-09-01'
+    date_end: '2019-04-01'
     description: |2-
         Responsibilities include:
       
