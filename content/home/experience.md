@@ -37,14 +37,24 @@ experience:
         * Modelling portfolio risk metrics through simulations and analysis
         * Automating portfolio visualizations and report generations
 
-  - title: Professor of Semiconductor Physics
+  - title: Business Analyst
     company: Capital One
-    company_url: ''
+    company_url: 'https://www.capitalone.ca/'
     company_logo: C1-Icon
     location: Toronto
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
+    description: Building and backtesting credit valuation models using Bayseian inferences and regression techniques.
+    
+    
+  - title: Research Assistant
+    company: Munk School of Global Affairs
+    company_url: 'https://munkschool.utoronto.ca/'
+    company_logo: Munk-Icon
+    location: Toronto
+    date_start: '2018-09-01'
+    date_end: '2019-04-01'
+    description: Collecting labour data from the IMF, OECD, World Bank and national Central Banks to observe and account for productivity and wage discrepancies across nations using R
     
 design:
   columns: '2'
