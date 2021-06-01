@@ -25,7 +25,7 @@ experience:
   - title: Investment Analyst
     company: Ontario Teachers' Pension Plan
     company_url: 'https://www.otpp.com/'
-    company_logo: piggy-bank
+    company_logo: btc
     location: Toronto
     date_start: 'Sept 2019'
     date_end: 'Sept 2020'
@@ -39,7 +39,7 @@ experience:
   - title: Business Analyst
     company: Capital One
     company_url: 'https://www.capitalone.ca/'
-    company_logo: money-check
+    company_logo: btc
     location: Toronto
     date_start: 'May 2019'
     date_end: 'Aug 2019'
@@ -52,7 +52,7 @@ experience:
   - title: Research Assistant
     company: Munk School of Global Affairs
     company_url: 'https://munkschool.utoronto.ca/'
-    company_logo: university
+    company_logo: sistrix
     location: Toronto
     date_start: 'Sept 2018'
     date_end: 'Apr 2019'
