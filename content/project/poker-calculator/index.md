@@ -4,12 +4,9 @@ date: 2021-06-01T16:11:24.061Z
 draft: false
 featured: false
 external_link: https://github.com/johnsoong216/PokerOddsCalc
-links:
-  - url: https://github.com/johnsoong216/PokerOddsCalc
-    icon_pack: fab
-    icon: github
+links: []
 image:
-  filename: xl-2020-royal-flush-1.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
