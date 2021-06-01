@@ -3,6 +3,8 @@ title: Poker Calculator
 date: 2021-06-01T16:11:24.061Z
 draft: false
 featured: false
+tags:
+  - Statistics
 external_link: https://github.com/johnsoong216/PokerOddsCalc
 links: []
 image:
