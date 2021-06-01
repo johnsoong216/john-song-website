@@ -15,14 +15,11 @@ tags:
 external_link: https://pypi.org/project/pymarkowitz/
 url_slides: ""
 categories:
-  - Quantitative Finance
-links:
-  - url: https://github.com/johnsoong216/pymarkowitz
-    icon_pack: fab
-    icon: github
+  - Finance
+links: []
 image:
   caption: Modern Portfolio Theory
   focal_point: Smart
-  filename: cover_page.png
+  filename: featured.png
 url_code: ""
 ---
